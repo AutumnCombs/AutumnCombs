@@ -1,8 +1,8 @@
 ## Hi, I'm Autumn!
 
-💻 Studying IT and Cybersecurity at the University of Cincinnati<br/>
+💻 Software Engineer - Graduated from the University of Cincinnati<br/>
 🌐 Passionate about developing secure web apps & security tools<br/>
-👩🏼‍💻 VP of WiCyS-UC<br/>
+👩🏼‍💻 Affilate of WiCyS<br/>
 
 [![Autumn's GitHub stats](https://github-readme-stats.vercel.app/api?username=AutumnCombs&show_icons=true&theme=tokyonight)](https://github.com/AutumnCombs/github-readme-stats)
 
